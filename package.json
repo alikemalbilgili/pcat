@@ -1,0 +1,27 @@
+{
+  "name": "pcat",
+  "version": "1.0.0",
+  "description": "photo update website",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alikemalbilgili/pcat.git"
+  },
+  "keywords": [
+    "photo",
+    "update",
+    "pcat"
+  ],
+  "author": "Ali Kemal Bilgili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alikemalbilgili/pcat/issues"
+  },
+  "homepage": "https://github.com/alikemalbilgili/pcat#readme",
+  "devDependencies": {
+    "prettier": "2.7.1"
+  }
+}
